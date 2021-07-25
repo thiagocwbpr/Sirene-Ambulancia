@@ -1,6 +1,6 @@
 # Sirene Ambulância
 
-Sim! Hoje, domingo, depois de ter tomado a vacina da covid-19, com algumas reações da vacina, sentado no sofá, vendo as olimpiadas de Tokyo 2021.
+Hoje, 25/07/2021, domingo, depois de ter tomado a vacina da covid-19, com algumas reações da vacina, sentado no sofá, vendo as olimpiadas de Tokyo 2021.
 
 Passou uma ambulância aqui pela rua, e fiquei reparando no compasso, de 0 e 1 que possui na sirene da ambulância ou de carro da polícia.
 
