@@ -12,6 +12,8 @@ Utilizei o som padrão do windows, porém o conceito é o mesmo, e francamente, 
 
 Testei, e está rodando perfeitamente!
 
+PORÉM, esse algoritmo pode ser modificado e ser transformado em um metrônomo, para criar compasso musical! fica bem legal também!
+
 Qualquer dúvida estou à disposição!
 
 Abraços
